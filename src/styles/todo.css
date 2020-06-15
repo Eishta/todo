@@ -1,0 +1,18 @@
+.strike {
+    text-decoration-line: line-through;
+}
+.listType {
+    list-style-type: disc;
+    cursor: pointer;
+}
+.list-view {
+    margin: 10px 10px;
+    transform: translate(25% ,20%);
+}
+.button {
+ margin-left: 10px;
+}
+.count {
+    margin-bottom: 15px;
+    font-weight: bold;
+}
